@@ -1,0 +1,1 @@
+Aplicacion de horoscopo, lectura de manos y de cartas.
